@@ -1,0 +1,14 @@
+body{
+    width: 100%;
+    background-color: cornflowerblue;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-origin: border-box; 
+    color: white; 
+}
+
+svg{
+   background-color: coral;
+   fill: white;
+    margin: 2em 2em;
+}
