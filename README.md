@@ -1,1 +1,1 @@
-##[A Random Quote Generator](https://dngugi.github.io/random-quote-machine/)
+## [A D3JS Bar Graph Implementation](https://dngugi.github.io/bar-chart/)
